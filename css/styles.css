@@ -18,6 +18,9 @@
     position: absolute;
     bottom: 0;
     width: 80px;
+}
+
+.pipe-animation {
     animation: pipe-animation 1.5s infinite linear;
 }
 
@@ -34,6 +37,9 @@
 .clouds {
     width: 550px;
     position: absolute;
+}
+
+.clouds-animation {
     animation: clouds 15s infinite linear;
 }
 
