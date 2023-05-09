@@ -5,7 +5,7 @@ Assisti um <a href="https://www.youtube.com/watch?v=r9buAwVBDhA">vídeo</a> do <
 
 ## Jogo
 
-Para jogar, acesse: https://runmario.com.br/
+Para jogar, acesse: https://gilded-stardust-9b064c.netlify.app/
 
 ## Rodar o projeto localmente
 
